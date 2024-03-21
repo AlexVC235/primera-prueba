@@ -1,2 +1,5 @@
 # primera-prueba
-Repo de prueba en GitHub
+Primer repositorio creado en GitHub
+
+## desccripción
+Este es un repositorio, creado solamente para hacer unas pequeñas pruebas
